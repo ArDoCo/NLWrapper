@@ -26,10 +26,6 @@
       <name>IPD-Repository</name>
       <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-snapshots</url>
     </repository>
-    <repository>
-      <id>Eclipse</id>
-      <url>http://download.eclipse.org/releases/2019-09/</url>
-    </repository>
   </repositories>
 
   <parent>
