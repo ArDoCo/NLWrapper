@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.kit.ipd.are.archdoclink.nlp"},{"l":"edu.kit.ipd.are.archdoclink.nlp.parse"}]
