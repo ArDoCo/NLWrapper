@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * This class represents a document with all its sentences, phrases, words, etc.
- * 
+ *
  * @author Jan Keim
  *
  */
@@ -25,10 +25,11 @@ public interface Document extends TextElement, Identifiable, DebugPrintable {
      * @return List of all Noun phrases of the document. The phrases are ordered by appearance.
      */
     public List<? extends Phrase> getNounPhrases();
-    
+
 
     /**
      * @return list of phrase of the specific phrasetype contained in the sentence
+     * @param type type of phrase
      */
     public List<? extends Phrase> getPhrasesOfType(PhraseType type);
 
@@ -53,7 +54,7 @@ public interface Document extends TextElement, Identifiable, DebugPrintable {
 
     /**
      * Annotates the given annotation to this document.
-     * 
+     *
      * @param annotation
      *            {@link Annotation} that should be annotated to this document.
      */
