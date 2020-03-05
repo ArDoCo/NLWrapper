@@ -34,7 +34,7 @@ jobs:
         name: javadoc
         path: tmp
     - run: mv tmp/apidocs javadoc && rm -rf tmp
-    - run: git checkout master README.md
+    - run: wget -O README.md https://raw.githubusercontent.com/Gram21/NLWrapper/master/README.md
     - name: Commit
       uses: zwaldowski/git-commit-action@v1
     - name: Push changes
