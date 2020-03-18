@@ -103,8 +103,8 @@
 <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub Gram21 Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/Gram21/NLWrapper</url>
+     <name>GitHub kit-sdq Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/kit-sdq/NLWrapper</url>
    </repository>
 </distributionManagement>
 
