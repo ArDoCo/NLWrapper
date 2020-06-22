@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.kit.ipd</groupId>
   <artifactId>NLWrapper</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4</version>
   <packaging>jar</packaging>
   <name>NLWrapper</name>
 
@@ -78,13 +78,6 @@
 		  <artifactId>commons-lang3</artifactId>
 		  <version>3.3</version>
 		</dependency>
-		<!--
-		<dependency>
-		    <groupId>log4j</groupId>
-		    <artifactId>log4j</artifactId>
-		    <version>1.2.15</version>
-		</dependency>
-		-->
 	</dependencies>
 
   <build>
@@ -104,7 +97,7 @@
    <repository>
      <id>github</id>
      <name>GitHub kit-sdq Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/kit-sdq/NLWrapper</url>
+     <url>https://maven.pkg.github.com/ArDoCo/NLWrapper</url>
    </repository>
 </distributionManagement>
 
