@@ -11,8 +11,8 @@
 
   <repositories>
     <repository>
-      <id>github ArDoCo</id>
-      <name>GitHub ArDoCo Apache Maven Packages</name>
+      <id>github</id>
+      <name>GitHub ArDoCo-parent Apache Maven Packages</name>
       <url>https://maven.pkg.github.com/ArDoCo/ArDoCo-parent</url>
     </repository>
   </repositories>
@@ -20,7 +20,7 @@
   <parent>
     <groupId>edu.kit.ipd</groupId>
     <artifactId>ArDoCo-parent</artifactId>
-    <version>0.0.5-beta1</version>
+    <version>0.0.5-beta2</version>
   </parent>
 
 	<dependencies>
