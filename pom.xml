@@ -20,7 +20,7 @@
   <parent>
     <groupId>edu.kit.ipd</groupId>
     <artifactId>ArDoCo-parent</artifactId>
-    <version>0.0.5-beta2</version>
+    <version>0.0.5</version>
   </parent>
 
 	<dependencies>
