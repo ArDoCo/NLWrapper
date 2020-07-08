@@ -4,12 +4,12 @@
   <parent>
     <groupId>edu.kit.ipd</groupId>
     <artifactId>ArDoCo-parent</artifactId>
-    <version>0.0.9</version>
+    <version>0.1.0</version>
   </parent>
 
   <groupId>edu.kit.ipd</groupId>
   <artifactId>NLWrapper</artifactId>
-  <version>${revision}</version>
+  <version>0.1.0</version>
   <packaging>jar</packaging>
   <name>NLWrapper</name>
 
